@@ -1,6 +1,6 @@
 # Testing Engineer
 
-This repository contains the work of the Testing Engineer project, which includes both personal and group contributions.
+This repository contains the work of the Testing Engineer project, which includes both personal and group contributions. My test subject is the OrangeHRM website version 4.5, which is a human resource management site. To deploy this website, please click the following link for detailed instructions on setting up the environment: https://s.net.vn/5JWC
 
 ## Personal Work
 
