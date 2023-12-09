@@ -17,11 +17,9 @@ The group work component of this project involves conducting a comprehensive cas
 
 - Test Plan: A detailed plan outlining the testing strategy and scope.
 - Domain Testing: Assessing the software's alignment with its specific domain.
-- State Testing: Evaluating the software's behavior under various conditions.
 - Automation Testing: Implementing automated tests to streamline the testing process.
 - GUI Testing: Verifying the software's graphical user interface.
 - Performance Testing: Assessing the system's performance under various loads.
-- API Testing: Evaluating the software's application programming interfaces.
 
 ### Seminar
 As part of the group work, we are conducting a seminar. The seminar includes the following components:
