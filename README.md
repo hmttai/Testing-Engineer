@@ -31,3 +31,10 @@ As part of the group work, we are conducting a seminar. The seminar includes the
 Please explore the specific directories and files within this repository for more detailed information on each aspect of the project.
 
 Thank you for your interest in the Testing Engineer project.
+
+# SQL PROJECT: Data Cleaning & Exploratory Data Analysis (Handling raw data by MySQL)
+### Using Tech layoffs dataset from COVID 2019 to present.
+One of the primary tasks within personal work is domain testing. Domain testing involves examining specific aspects of the software's functionality to ensure it aligns with the intended domain or industry. In this project, we focus on domain testing for the OrangeHRM website.
+### Handling duplicates and standardizing data. Looking at null values and removing any columns and rows that are not necessary.
+Automation testing is another key personal responsibility. This entails creating automated test scripts and harnesses to assess the functionality and performance of the OrangeHRM website. Automation testing helps increase efficiency and accuracy in the testing process.
+### Exploring the data and find trends or patterns or anything interesting like outliers.
