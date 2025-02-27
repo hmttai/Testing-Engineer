@@ -61,10 +61,6 @@ with open('Feature1_test_data.csv', newline='') as csvfile:
 
         save_button = driver.find_element(By.ID, "btnSave")
         save_button.click()
-        save_button = driver.find_element(By.ID, "btnSave")
-        save_button.click()
-        save_button = driver.find_element(By.ID, "btnSave")
-        save_button.click()
                 
         time.sleep(10)
         driver.implicitly_wait(10)  
